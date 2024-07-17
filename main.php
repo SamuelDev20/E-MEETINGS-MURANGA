@@ -79,7 +79,7 @@
                         <div class="row flex-v-center">
                             <div class="col-md-8 col-lg-7 col-sm-12 col-xs-12">
                                 <div class="welcome-text">
-                                    <h1>Welcome to MURANG'A COUNTY GOVERNMENT SYSTEM</h1>
+                                    <h1>Welcome to MURANG'A COUNTY GOVERNMENT E-MEETINGS GITGSYSTEM</h1>
                                     <p>Where you do everything online</p>
                                     <div class="home-button">
                                     </div>

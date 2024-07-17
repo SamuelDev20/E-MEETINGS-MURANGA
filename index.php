@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <link rel="shortcut icon" type="image/ico" href="assets/img/logo.png" />
-  <title>MURANG'A EMEETINGS SYSTEM</title>
+  <title>MURANG'A E-MEETINGS SYSTEM</title>
  	
 
 <?php
